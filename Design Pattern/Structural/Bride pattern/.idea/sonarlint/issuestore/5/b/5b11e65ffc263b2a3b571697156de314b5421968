@@ -1,0 +1,11 @@
+
+z
+java:S4165"dRemove this useless assignment; "volume" already holds the assigned value along all execution paths.(•¶×°
+_
+java:S3358"DExtract this nested ternary operation into an independent statement.(ÄµŸÇúÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(úú¦Í
+S	java:S106."9Replace this use of System.out or System.err by a logger.(Í¦·ÿÿÿÿÿ
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(Î£·Æÿÿÿÿÿ
+S	java:S1060"9Replace this use of System.out or System.err by a logger.(»º³äøÿÿÿÿ
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ëñó8ˆÒ‘Ô§/
+U	java:S1062"9Replace this use of System.out or System.err by a logger.(úú¦Í8ÿå–Ô§/

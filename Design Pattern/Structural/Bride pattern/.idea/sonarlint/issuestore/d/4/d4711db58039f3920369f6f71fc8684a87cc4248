@@ -1,0 +1,9 @@
+
+0
+java:S1220""Move this file to a named package.
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§ÙËüÿÿÿÿ
+K
+java:S6212"/Declare this local variable with "var" instead.(‹Ú•8Ÿ ñÕ§/
+N	java:S106"9Replace this use of System.out or System.err by a logger.(üÏÎ·
+Q
+java:S6212"/Declare this local variable with "var" instead.(ôÃŞ¢ıÿÿÿÿ8ª ñÕ§/

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9313445e-1763-4849-9f43-bd8aa4241b51" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/0/9/096c7604c67075818d78b83b915f714230eb685b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/2/4/24136ef9bba09a478861091421068c0ae2aa6fbf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/5/8/587c79ad8c0f5b0742e4fc26e3e3100707f381ac" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/b/3/b3203223fc75b99612b9f010bd829658c4814a06" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/d/2/d20c443d43c037d24c6c42749078c4ececb12e8f" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/f/5/f54ba56a9dc53a7d8f2c1df6ed9e0642be212037" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bride pattern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/bridge-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bride pattern/Demo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bride pattern/devices/Device.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bride pattern/devices/Radio.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bride pattern/devices/TV.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bride pattern/remotes/AdvancedRemote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bride pattern/remotes/BasicRemote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Bride pattern/remotes/Remote.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/devices/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/devices/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotes/AdvancedRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotes/BasicRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/remotes/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.gradle/checksums/checksums.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/0/7/07ee4e6eb9ad6de20f23b309ce3a33f0cfb4f735" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/4/f/4f06b1ae1c10d4d0753fb690de7b7183bc7e239b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/8/f/8f73892e6ce925f8b6a3d039e167a8913b173535" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/b/4/b48404405af9f800438aafcf1a8b13ae9990d337" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/b/5/b5a5138782af2d1f0d52ca92a0b2af1af0830aca" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/b/8/b81986bd669fb1cd49155c1825616c6e128ec3c6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/e/6/e6137a6bfe609097411d5b53afb69474b5da0ee0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/f/0/f07866736216be0ee2aba49e392191aeae700a35" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/src/main/java/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/src/main/java/devices/Device.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/src/main/java/devices/Radio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/src/main/java/devices/TV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/src/main/java/remotes/AdvancedRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/src/main/java/remotes/BasicRemote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bridge/src/main/java/remotes/Remote.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/libraries-with-intellij-classes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/images/1-bridge-pattern.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/src/main/java/BridgePatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/src/main/java/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/src/main/java/DrawAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/src/main/java/GreenCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/src/main/java/RedCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../Tutorialspoint/Bridge/src/main/java/Shape.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../../../../Structural/Bridge_Pattern/code/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectId" id="1uvjc7NolA2U0Fnxg8q55piiu22" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Demo" />
+      <module name="Bride pattern" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9313445e-1763-4849-9f43-bd8aa4241b51" name="Default Changelist" comment="" />
+      <created>1625553033584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1625553033584</updated>
+      <workItem from="1625553035000" duration="2041000" />
+      <workItem from="1625556800182" duration="1199000" />
+      <workItem from="1625567804446" duration="1142000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
