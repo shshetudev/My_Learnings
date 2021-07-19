@@ -1,0 +1,42 @@
+com/shshetudev/unittest/Mockito_Inliner/FooWithStaticsTest.java
+ com.shshetudev.unittest.Mockito_Inliner.FooWithStaticsTest
+com/shshetudev/unittest/Overview/VerifyInteractionTest.java
+ com.shshetudev.unittest.Overview.VerifyInteractionTest
+com/shshetudev/unittest/Mockito_Verify/MockitoVerifyNoMoreInteractions.java
+ com.shshetudev.unittest.Mockito_Verify.MockitoVerifyNoMoreInteractions
+com/shshetudev/unittest/Mockito_Mock/MockitoMockMethodExample.java
+ com.shshetudev.unittest.Mockito_Mock.MockitoMockMethodExample
+com/shshetudev/unittest/Mockito_Verify/MockitoVerifyOnlyOneMethodCall.java
+ com.shshetudev.unittest.Mockito_Verify.MockitoVerifyOnlyOneMethodCall
+com/shshetudev/unittest/Overview/MockitoSpyTest.java
+ com.shshetudev.unittest.Overview.MockitoSpyTest
+com/shshetudev/unittest/Mockito_Mock/MockitoSpyAnnotationExample.java
+ com.shshetudev.unittest.Mockito_Mock.MockitoSpyAnnotationExample
+com/shshetudev/unittest/Mockito_Verify/MockitoVerifyNumberOfTimes.java
+ com.shshetudev.unittest.Mockito_Verify.MockitoVerifyNumberOfTimes
+com/shshetudev/unittest/Overview/CalcService2Test.java
+ com.shshetudev.unittest.Overview.CalcService2Test
+com/shshetudev/unittest/Mockito_Mock/MockitoSpyMethodExample.java
+ com.shshetudev.unittest.Mockito_Mock.MockitoSpyMethodExample
+com/shshetudev/unittest/Mockito_Verify/MockitoVerifyZeroInteractions.java
+ com.shshetudev.unittest.Mockito_Verify.MockitoVerifyZeroInteractions
+com/shshetudev/unittest/Mockito_Verify/MockitoVerifySimpleExample.java
+ com.shshetudev.unittest.Mockito_Verify.MockitoVerifySimpleExample
+com/shshetudev/unittest/Overview/CalcService1Test.java
+ com.shshetudev.unittest.Overview.CalcService1Test
+com/shshetudev/unittest/Mockito_Mock/MockitoMockAnnotationExample.java
+ com.shshetudev.unittest.Mockito_Mock.MockitoMockAnnotationExample
+com/shshetudev/unittest/Overview/MockitoSingleElementTest.java
+ com.shshetudev.unittest.Overview.MockitoSingleElementTest
+com/shshetudev/unittest/Mockito_Mock_Void_Method/JUnitMockitoMockVoidMethodExample.java
+ com.shshetudev.unittest.Mockito_Mock_Void_Method.JUnitMockitoMockVoidMethodExample
+com/shshetudev/unittest/Mockito_Mock_Static_Method/PowerMockitoStaticExample.java
+ com.shshetudev.unittest.Mockito_Mock_Static_Method.PowerMockitoStaticExample
+com/shshetudev/unittest/Mockito_Mock/MockitoInjectMockAnnotationExample.java
+ com.shshetudev.unittest.Mockito_Mock.MockitoInjectMockAnnotationExample
+com/shshetudev/unittest/Mockito_Verify/MockitoVerifyOrderOfInvocation.java
+ com.shshetudev.unittest.Mockito_Verify.MockitoVerifyOrderOfInvocation
+com/shshetudev/unittest/Mockito_mock_final_class_and_methods/MockingFinalClassTest.java
+ com.shshetudev.unittest.Mockito_mock_final_class_and_methods.MockingFinalClassTest
+com/shshetudev/unittest/Mockito_mock_final_class_and_methods/MockingFinalMethod.java
+ com.shshetudev.unittest.Mockito_mock_final_class_and_methods.MockingFinalMethod
