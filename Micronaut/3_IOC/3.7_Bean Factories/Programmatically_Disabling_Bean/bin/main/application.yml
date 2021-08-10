@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: programmatically_Disabling_Bean

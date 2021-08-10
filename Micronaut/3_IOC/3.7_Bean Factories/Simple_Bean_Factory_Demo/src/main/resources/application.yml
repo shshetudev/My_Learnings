@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: simple_Bean_Factory_Demo

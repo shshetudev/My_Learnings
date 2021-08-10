@@ -1,0 +1,22 @@
+micronaut:
+  application:
+    name: micronautapp
+
+
+datasource:
+  default:
+    name: 'mydb'
+
+jpa:
+  default:
+    properties:
+      hibernate:
+        hbm2ddl:
+          auto: update
+          show_sql: true
+
+
+
+my:
+  engine:
+    cylinders: 6

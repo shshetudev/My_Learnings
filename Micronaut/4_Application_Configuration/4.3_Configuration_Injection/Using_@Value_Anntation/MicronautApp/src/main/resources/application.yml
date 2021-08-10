@@ -1,0 +1,6 @@
+micronaut:
+  application:
+    name: micronautapp
+
+my:
+  url: http://myurl.com

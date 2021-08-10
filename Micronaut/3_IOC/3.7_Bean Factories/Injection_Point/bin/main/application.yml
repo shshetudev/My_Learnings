@@ -1,0 +1,3 @@
+micronaut:
+  application:
+    name: injection_Point

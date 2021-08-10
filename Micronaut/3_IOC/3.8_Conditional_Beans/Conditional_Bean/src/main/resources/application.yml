@@ -1,0 +1,9 @@
+micronaut:
+  application:
+    name: conditional_Bean
+
+
+datasource:
+  url: localhost:3000
+
+bucket: rakizo-iac222
