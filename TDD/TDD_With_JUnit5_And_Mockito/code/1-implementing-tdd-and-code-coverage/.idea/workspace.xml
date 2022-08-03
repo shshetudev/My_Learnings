@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="abe14f82-41ea-4a6b-bc2f-fbb055803372" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../3-using-junit5-more-effectively/flight-mgmt-app/flight-mgmt-app/src/test/java/com/shshetudev/flightmgmtapp/airport/FlightTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3-using-junit5-more-effectively/flight-mgmt-app/flight-mgmt-app/src/test/java/com/shshetudev/flightmgmtapp/airport/FlightTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
+  </component>
+  <component name="ProjectId" id="2CGDpULbqJ0Ls43HIb05aDDd0FM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/media/bjit/Backup/Personal/git/Personal_git/Online_Courses/Pluralsight/TDD_with_JUnit5-Catalin-Tudose/code/1-implementing-tdd-and-code-coverage/flight-mgmt-app/flight-mgmt-app"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="abe14f82-41ea-4a6b-bc2f-fbb055803372" name="Changes" comment="" />
+      <created>1658420211138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1658420211138</updated>
+      <workItem from="1658420212525" duration="6000" />
+    </task>
+    <servers />
+  </component>
+</project>
